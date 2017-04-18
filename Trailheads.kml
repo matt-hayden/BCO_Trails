@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17976</SimpleData>
+		<SimpleData name="AccessType">1</SimpleData>
+		<SimpleData name="TrailheadName">Pella West Trailhead</SimpleData>
+		<SimpleData name="Location">Pella</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">No</SimpleData>
+		<SimpleData name="id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.178260786899713,40.187319149384514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17977</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Wally Toevs Pond Trailhead</SimpleData>
+		<SimpleData name="Location">Walden Ponds</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.18050327862592,40.045702387144665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17978</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Cottonwood Marsh Pond Trailhead</SimpleData>
+		<SimpleData name="Location">Walden Ponds</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.18401868433719,40.044088155340056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17979</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Stearn's Lake Trailhead</SimpleData>
+		<SimpleData name="Location">Rock Creek Farm</SimpleData>
+		<SimpleData name="LocationDescription">Stearn's Lake Trail</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.109127606011796,39.946941192710064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17980</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Monarch Road Trailhead</SimpleData>
+		<SimpleData name="Location">Niwot Trails</SimpleData>
+		<SimpleData name="LocationDescription">Dry Creek Trail</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">No</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.173367555088376,40.09403420096244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17981</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Niwot Loop Trailhead</SimpleData>
+		<SimpleData name="Location">Niwot Trails</SimpleData>
+		<SimpleData name="LocationDescription">Niwot loop</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">No</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.168478465875097,40.089185368261624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17982</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Lefthand Valley Grange Trailhead</SimpleData>
+		<SimpleData name="Location">Lefthand Valley Grange</SimpleData>
+		<SimpleData name="LocationDescription">Near parking area</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.159819276530413,40.103159919755804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17983</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Rabbit Mountain Trailhead</SimpleData>
+		<SimpleData name="Location">Rabbit Mountain</SimpleData>
+		<SimpleData name="LocationDescription">Parking lot</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.223860108296051,40.246486442906487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17984</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Bitterbrush Trailhead</SimpleData>
+		<SimpleData name="Location">Hall</SimpleData>
+		<SimpleData name="LocationDescription">top parking lot</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="Comments">picnic path connected to parking lot &lt;200' away</SimpleData>
+		<SimpleData name="id">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.289376495758276,40.212013976827578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17985</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Hall Ranch Trailhead</SimpleData>
+		<SimpleData name="Location">Hall</SimpleData>
+		<SimpleData name="LocationDescription">Bitterbrush</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="Comments">picnic is 400' away</SimpleData>
+		<SimpleData name="id">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.288280291177514,40.210598744845946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17986</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Wapiti Trailhead</SimpleData>
+		<SimpleData name="Location">Heil</SimpleData>
+		<SimpleData name="LocationDescription">Wapiti trailhead</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.300090595813955,40.149299062150526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17987</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Walker Ranch Loop Trailhead</SimpleData>
+		<SimpleData name="Location">Walker Ranch</SimpleData>
+		<SimpleData name="LocationDescription">Walker Ranch Loop Trail</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.337685681381018,39.951229550776056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17988</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Ethel Harrold Trailhead</SimpleData>
+		<SimpleData name="Location">Walker Ranch</SimpleData>
+		<SimpleData name="LocationDescription">Ethel Harold</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.322331537588994,39.95556591825062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17989</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Mud Lake Trailhead</SimpleData>
+		<SimpleData name="Location">Mud Lake</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.508024166582445,39.979267317281561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17990</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Caribou Ranch Trailhead</SimpleData>
+		<SimpleData name="Location">Caribou Ranch</SimpleData>
+		<SimpleData name="LocationDescription">Parking lot</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.519192938601805,39.982345381352793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17991</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Lagerman Trailhead</SimpleData>
+		<SimpleData name="Location">Lagerman Reservoir</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.190462593294853,40.135641168904641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17992</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Legion Park Trailhead</SimpleData>
+		<SimpleData name="Location">Legion Park</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="Comments">mini kiosk exists</SimpleData>
+		<SimpleData name="id">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.189401719666606,40.015906785853126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17993</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Betasso Trailhead East</SimpleData>
+		<SimpleData name="Location">Betasso</SimpleData>
+		<SimpleData name="LocationDescription">Upper parking lot</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.340980737535247,40.015767636114113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17994</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Fairgrounds Lake Trailhead</SimpleData>
+		<SimpleData name="Location">Fairgrounds Lake</SimpleData>
+		<SimpleData name="LocationDescription">St. Vrain Creek Trail</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.127974624205606,40.159914021860374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17995</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Heatherwood Trailhead</SimpleData>
+		<SimpleData name="Location">Heatherwood Trail</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">No</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.178579836763859,40.050895397632559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17996</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Flagg Park Trailhead</SimpleData>
+		<SimpleData name="Location">Flagg</SimpleData>
+		<SimpleData name="LocationDescription">Near entrance</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">No</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.060986512582204,39.993059455847394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17997</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Picture Rock Trailhead</SimpleData>
+		<SimpleData name="Location">Heil</SimpleData>
+		<SimpleData name="LocationDescription">Picture Rock Trailhead</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.272660611784659,40.21136975500832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17998</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Pella East Trailhead</SimpleData>
+		<SimpleData name="Location">Pella</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.176511573402934,40.183794679727917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17999</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Meyer's Homestead Trailhead</SimpleData>
+		<SimpleData name="Location">Walker Ranch</SimpleData>
+		<SimpleData name="LocationDescription">Meyer's Gulch</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.338609245019313,39.957945378077113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18000</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Betasso Trailhead</SimpleData>
+		<SimpleData name="Location">Betasso</SimpleData>
+		<SimpleData name="LocationDescription">Parking lot at Bummers Gulch</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.344150290897559,40.015745182964253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18001</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Bald Mountain Trailhead</SimpleData>
+		<SimpleData name="Location">Bald Mountain</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">No</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="Comments">regulatory signage exists</SimpleData>
+		<SimpleData name="id">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.341487280316457,40.047672611503955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18002</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Dodd Lake Trailhead</SimpleData>
+		<SimpleData name="Location">Dodd Hindman Reservoir</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">No</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.191577909749327,40.101401588509979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18003</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Bummer's Rock Trailhead</SimpleData>
+		<SimpleData name="Location">Betasso</SimpleData>
+		<SimpleData name="LocationDescription">Main parking lot</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.343483034998286,40.013527043144087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18005</SimpleData>
+		<SimpleData name="AccessType">1</SimpleData>
+		<SimpleData name="TrailheadName">Anne U White Trailhead</SimpleData>
+		<SimpleData name="Location">Fourmile Canyon</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">No</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="Comments">trail still closed from the flood</SimpleData>
+		<SimpleData name="id">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.31976470295362,40.059347927852144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18006</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Coalton Trailhead</SimpleData>
+		<SimpleData name="Location">Coalton Trail/Meadowlark Trail</SimpleData>
+		<SimpleData name="LocationDescription">parking lot</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.166680204322603,39.928726512393645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18007</SimpleData>
+		<SimpleData name="AccessType">1</SimpleData>
+		<SimpleData name="TrailheadName">Fourmile Link Access</SimpleData>
+		<SimpleData name="Location">Betasso Preserve</SimpleData>
+		<SimpleData name="LocationDescription">along Fourmile Canyon Dr.</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">No</SimpleData>
+		<SimpleData name="id">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.350695278723009,40.038360720729145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18008</SimpleData>
+		<SimpleData name="AccessType">1</SimpleData>
+		<SimpleData name="TrailheadName">Betasso Link Access</SimpleData>
+		<SimpleData name="Location">Betasso Preserve</SimpleData>
+		<SimpleData name="LocationDescription">along SH 119</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">No</SimpleData>
+		<SimpleData name="Parking">No</SimpleData>
+		<SimpleData name="id">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.333300303612162,40.007170179484667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18009</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Lichen Loop Trailhead</SimpleData>
+		<SimpleData name="Location">Heil Valley Ranch</SimpleData>
+		<SimpleData name="Status">proposed</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.300120497568145,40.147949575892866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18010</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Twin Lakes Trailhead</SimpleData>
+		<SimpleData name="Location">Twin Lakes</SimpleData>
+		<SimpleData name="LocationDescription">parking culdesac area</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">No</SimpleData>
+		<SimpleData name="PicnicArea">No</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.20076151343072,40.062998578984811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18011</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Agricultural Heritage Center Trailhead</SimpleData>
+		<SimpleData name="Location">Agricultural Heritage Center</SimpleData>
+		<SimpleData name="LocationDescription">parking lot</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">Yes</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="id">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.157842047268502,40.202609041498654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18012</SimpleData>
+		<SimpleData name="AccessType">0</SimpleData>
+		<SimpleData name="TrailheadName">Harney-Lastoka Trailhead</SimpleData>
+		<SimpleData name="Location">parking lot</SimpleData>
+		<SimpleData name="Status">existing</SimpleData>
+		<SimpleData name="Restroom">Yes</SimpleData>
+		<SimpleData name="PicnicArea">Yes</SimpleData>
+		<SimpleData name="Kiosk">No</SimpleData>
+		<SimpleData name="Parking">Yes</SimpleData>
+		<SimpleData name="Comments">regulatory signage exists</SimpleData>
+		<SimpleData name="id">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-105.1272907754893,39.982955583149916</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="AccessType" type="int"></SimpleField>
+	<SimpleField name="TrailheadName" type="string"></SimpleField>
+	<SimpleField name="Location" type="string"></SimpleField>
+	<SimpleField name="LocationDescription" type="string"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+	<SimpleField name="Restroom" type="string"></SimpleField>
+	<SimpleField name="PicnicArea" type="string"></SimpleField>
+	<SimpleField name="Kiosk" type="string"></SimpleField>
+	<SimpleField name="Parking" type="string"></SimpleField>
+	<SimpleField name="Comments" type="string"></SimpleField>
+	<SimpleField name="id" type="string"></SimpleField>
+</Schema>
+</Document></kml>
